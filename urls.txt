@@ -1,2 +1,3 @@
 Minikube - https://asciinema.org/a/110310 or http://s3.amazonaws.com/org-kurron-asciicinema/minikube.html
-Canonical Kubernetes Distribution - http://s3.amazonaws.com/org-kurron-asciicinema/canonical-kubernetes-development.html
+Canonical Kubernetes Distribution (local) - http://s3.amazonaws.com/org-kurron-asciicinema/canonical-kubernetes-development.html
+Canonical Kubernetes Distribution (AWS) - http://s3.amazonaws.com/org-kurron-asciicinema/canonical-kubernetes-aws.html
